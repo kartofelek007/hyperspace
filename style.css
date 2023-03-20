@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    background: crimson;
+}
