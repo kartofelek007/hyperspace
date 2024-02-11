@@ -1,4 +1,4 @@
-# Class for do Hyperspace jump
+# Hyperspace Jump
 https://kartofelek007.github.io/hyperspace/
 
 ### How to use
